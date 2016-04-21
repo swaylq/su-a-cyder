@@ -19,7 +19,7 @@
          # libimobiledevice utilities (https://www.libimobiledevice.org)                
          # Bishop-fox, theos-jailed (https://github.com/BishopFox/theos-jailed)
          # Asger Hautop Drewsen,insert_dylib (https://github.com/Tyilo/insert_dylib)
-         # Spaceship, an Apple development automation paltform (https://fastlane.tools/)
+         # Spaceship, an Apple development automation platform (https://fastlane.tools/)
 
 
 ##   LICENSE:
